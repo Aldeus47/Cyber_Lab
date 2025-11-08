@@ -23,7 +23,10 @@ VirtualBox :
         [réseaux]-> "attached top [NAT]"-> [Accès_par_pont]
             NAT : partage la même adresse IP que la machine qui la supporte
             Accès par pont : Passe par la machine qui la supporte mais as ça propre adresse IP
+            Host Only : La machine support est la seule a y avoir accès ?
 
 10.  [démarrer]
 
 11. configurer l'OS sur la machine
+
+![Capture_Réseaux] (./"C:\Users\Pc\Desktop\Cyber défense\ressources\Capture d'écran 2025-11-08 173132.png")
