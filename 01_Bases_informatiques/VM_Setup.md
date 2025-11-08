@@ -2,6 +2,7 @@ VirtualBox :
 
 1.  Installer l'image ISO de l'OS souhaité
         ex: ubuntu-24.04.3-desktop-amd64.iso
+            Ubuntu / Windows / Kali Linux
 
 2.  [nouvelle] 
 
@@ -20,6 +21,8 @@ VirtualBox :
 
 9.  Connecté la VM sur le réseaux local :
         [réseaux]-> "attached top [NAT]"-> [Accès_par_pont]
+            NAT : partage la même adresse IP que la machine qui la supporte
+            Accès par pont : Passe par la machine qui la supporte mais as ça propre adresse IP
 
 10.  [démarrer]
 
