@@ -29,4 +29,4 @@ VirtualBox :
 
 11. configurer l'OS sur la machine
 
-![Capture_Réseaux] (./"C:\Users\Pc\Desktop\Cyber défense\ressources\Capture d'écran 2025-11-08 173132.png")
+![Capture_Réseaux](./image/capture_reseaux.png)
