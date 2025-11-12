@@ -1,4 +1,4 @@
-Commandes Windows testé et leurs utilitées :
+# Commandes Windows testé et leurs utilitées :
 
 1.  ipconfig : Affiche les support de connection de la machine ainsi que les information relative aux connection
  [Ethernet]: Connection internet filaire
